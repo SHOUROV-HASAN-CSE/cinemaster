@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Footer = () => {
   const Links = [
     {
-      title:'company',
+      title:'Company',
       links:[
         {
           name:'Home',

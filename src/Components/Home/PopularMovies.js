@@ -12,8 +12,7 @@ const PopularMovies = () => {
         {
           Movies.slice(0, 8).map((movie, index) =>(
             <Movie key={index} movie={movie}/>
-          ))
-        }
+          ))}
       </div>
     </div>
   );
