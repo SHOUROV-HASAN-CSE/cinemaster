@@ -20,13 +20,27 @@ const TopRated = () => {
       <div className='mt-10'>
         <Swiper 
         navigation={{ nextEl, prevEl }} 
-        slidesPerView={4} 
+        slidesPerView={1} 
         spaceBetween={40} 
         Autoplay={true}
         speed={1000}
         loop={true}
+        breakpoints={{
+          640: {
+            slidesPerView: 2,
+            spaceBetween: 40,
+          },
+          768: {
+            slidesPerView: 3,
+            spaceBetween: 40,
+          },
+          1024: {
+            slidesPerView: 4,
+            spaceBetween: 40,
+          },
+        }}
         modules={[Navigation,Autoplay]}
-        autoplay={{delay: 4000, disableOnInteraction: false}}
+        autoplay={{delay: 3000, disableOnInteraction: false}}
         >
           {
             Movies.map((movie, index) =>(
