@@ -26,7 +26,7 @@ export const Movies = [
     reviews: 23,
   },
   {
-    name: 'Army of the Dead',
+    name: 'My Favourite Person',
     desc: 'ipsum dolor sit amet consectetur adipisicing elit. Nobis, animi distinctio quidem reprehenderit rem dolorem illo ipsum debitis ratione quam!',
     titleImage: '33.jpg',
     image: '3.jpg',
@@ -39,7 +39,7 @@ export const Movies = [
     reviews: 23,
   },
   {
-    name: 'Army of the Dead',
+    name: 'Lets Be a Crops',
     desc: 'ipsum dolor sit amet consectetur adipisicing elit. Nobis, animi distinctio quidem reprehenderit rem dolorem illo ipsum debitis ratione quam!',
     titleImage: '44.jpg',
     image: '5.jpg',
@@ -52,7 +52,7 @@ export const Movies = [
     reviews: 23,
   },
   {
-    name: 'Army of the Dead',
+    name: 'Below Her Month',
     desc: 'ipsum dolor sit amet consectetur adipisicing elit. Nobis, animi distinctio quidem reprehenderit rem dolorem illo ipsum debitis ratione quam!',
     titleImage: '55.jpg',
     image: '6.jpg',
@@ -65,7 +65,7 @@ export const Movies = [
     reviews: 23,
   },
   {
-    name: 'Army of the Dead',
+    name: 'Legend of the Seeker',
     desc: 'ipsum dolor sit amet consectetur adipisicing elit. Nobis, animi distinctio quidem reprehenderit rem dolorem illo ipsum debitis ratione quam!',
     titleImage: '88.jpg',
     image: '8.jpg',
