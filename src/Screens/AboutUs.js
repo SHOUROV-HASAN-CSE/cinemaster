@@ -35,7 +35,6 @@ const AboutUs = () => {
             </div>
           </div>
         </div>
-        <h1>About Us</h1>
       </Layout>
   );
 };
