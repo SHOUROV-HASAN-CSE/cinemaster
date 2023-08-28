@@ -2,5 +2,11 @@
   "cSpell.words": [
     "headlessui",
     "Listbox"
-  ]
+  ],
+  "emmet.preferences": {
+  
+  },
+  "emmet.includeLanguages":{
+    "javascript":"javascriptreact"
+}
 }
