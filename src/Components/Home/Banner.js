@@ -38,7 +38,6 @@ const Banner = () => {
           ))
         }
       </Swiper>
-      banner
     </div>
   );
 };
