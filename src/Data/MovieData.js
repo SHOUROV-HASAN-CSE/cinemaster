@@ -162,44 +162,66 @@ export const Movies = [
 
 export const UsersData  = [
   {
-    name: 'Tom Cruise', 
+    fullName: 'Tom Cruise', 
     image: 'c1.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 5,
   },
   {
-    name: 'Emily Blunt', 
+    fullName: 'Emily Blunt', 
     image: 'c2.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 1,
   },
   {
-    name: 'John Snow', 
+    fullName: 'John Snow', 
     image: 'c3.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 1.5,
   },
   {
-    name: 'Will Smith', 
+    fullName: 'Will Smith', 
     image: 'c4.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 2,
   },
   {
-    name: 'Minah Lee', 
+    fullName: 'Minah Lee', 
     image: 'c5.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 2.5,
   },
   {
-    name: 'Tom Cruise', 
+    fullName: 'Tom Cruise', 
     image: 'c1.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 3,
   },
   {
-    name: 'Emily Blunt', 
+    fullName: 'Emily Blunt', 
     image: 'c2.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 3.5,
   },
   {
-    name: 'John Snow', 
+    fullName: 'John Snow', 
     image: 'c3.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 4,
   },
   {
-    name: 'Will Smith', 
+    fullName: 'Will Smith', 
     image: 'c4.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 4.5,
   },
   {
-    name: 'Minah Lee', 
+    fullName: 'Minah Lee', 
     image: 'c5.png',
+    message: 'Lorem ipsum dolor sit amet, consecetur adipiscing elseddo eiusmod There are many variations of passages of lorem Ipsum available, but the majority have suffered alteration.',
+    rate: 5,
   },
+ 
+ 
   
 ]
