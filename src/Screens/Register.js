@@ -31,7 +31,7 @@ const Register = () => {
          </Link>
          <p className='text-center text-border'>
          Already have an account? {" "}
-           <Link to="/register" className='text-dryGray font-semibold ml-2'>Sign In</Link>
+           <Link to="/login" className='text-dryGray font-semibold ml-2'>Sign In</Link>
          </p>
        </div>
      </div>
